@@ -1,3 +1,4 @@
+
 ## ClickBeat (HTML + CSS + JavaScript)
 
 ## Description
@@ -22,5 +23,7 @@
 - Supports both mouse clicks and keyboard input
 - Lightweight and works directly in any browser
 - No external dependencies required
+
+![Gif](https://github.com/user-attachments/assets/666457a0-9dbf-498e-8001-8a44b76ee753)
 
 
